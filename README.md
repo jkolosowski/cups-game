@@ -1,6 +1,6 @@
 # Cups Game
 
-Final multiplayer game
+Final multiplayer game - lobby, rooms, chats and window for game
 
 ### Used technologies
 - React
