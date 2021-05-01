@@ -6,5 +6,6 @@ Final multiplayer game
 - React
 - React Router
 - Bulma.io
+- Axios
 - MQTT
 - Express
